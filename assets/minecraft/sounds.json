@@ -1,0 +1,139 @@
+{
+	"music.game": { 
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/lilypad/1-rostrum",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2-norway",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/3-sadway",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/4-pattern-ponder",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/5-ballroom-pianist",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/6-moon-2",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/7-nordic-sanctuary",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/8-hidden-den",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/9-fauxdivinity",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/10-lemuria",
+				"stream": true
+			}
+		]
+	},
+	"music.game.creative": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "music/lilypad/1-rostrum",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2-norway",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/3-sadway",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/4-pattern-ponder",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/5-ballroom-pianist",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/6-moon-2",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/7-nordic-sanctuary",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/8-hidden-den",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/9-fauxdivinity",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/10-lemuria",
+				"stream": true
+			}
+		]
+	},
+	"music.menu": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "music/lilypad/1-rostrum",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2-norway",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/3-sadway",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/4-pattern-ponder",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/5-ballroom-pianist",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/6-moon-2",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/7-nordic-sanctuary",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/8-hidden-den",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/9-fauxdivinity",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/10-lemuria",
+				"stream": true
+			}
+		]
+	}
+}
