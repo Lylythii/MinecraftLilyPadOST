@@ -3,43 +3,77 @@
 		"category": "music",
 		"sounds": [
 			{
-				"name": "music/lilypad/1-rostrum",
+				"name": "music/lilypad/1/1-rostrum",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/2-norway",
+				"name": "music/lilypad/1/2-norway",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/3-sadway",
+				"name": "music/lilypad/1/3-sadway",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/4-pattern-ponder",
+				"name": "music/lilypad/1/4-pattern-ponder",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/5-ballroom-pianist",
+				"name": "music/lilypad/1/5-ballroom-pianist",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/6-moon-2",
+				"name": "music/lilypad/1/6-moon-2",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/7-nordic-sanctuary",
+				"name": "music/lilypad/1/7-nordic-sanctuary",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/8-hidden-den",
+				"name": "music/lilypad/1/8-hidden-den",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/9-fauxdivinity",
+				"name": "music/lilypad/1/9-fauxdivinity",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/10-lemuria",
+				"name": "music/lilypad/1/10-lemuria",
+				"stream": true
+			},
+			
+			
+			{
+				"name": "music/lilypad/2/1-Suomalainen Kehtolaulu",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/2-43343138",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/3-Estonian Reliquary",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/4-Before The Storm",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/5-Denmark",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/6-Sunrise at Denmark",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/7-Factorial",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/8-Great Threat",
 				"stream": true
 			}
 		]
@@ -49,43 +83,77 @@
 		"replace": true,
 		"sounds": [
 			{
-				"name": "music/lilypad/1-rostrum",
+				"name": "music/lilypad/1/1-rostrum",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/2-norway",
+				"name": "music/lilypad/1/2-norway",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/3-sadway",
+				"name": "music/lilypad/1/3-sadway",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/4-pattern-ponder",
+				"name": "music/lilypad/1/4-pattern-ponder",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/5-ballroom-pianist",
+				"name": "music/lilypad/1/5-ballroom-pianist",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/6-moon-2",
+				"name": "music/lilypad/1/6-moon-2",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/7-nordic-sanctuary",
+				"name": "music/lilypad/1/7-nordic-sanctuary",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/8-hidden-den",
+				"name": "music/lilypad/1/8-hidden-den",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/9-fauxdivinity",
+				"name": "music/lilypad/1/9-fauxdivinity",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/10-lemuria",
+				"name": "music/lilypad/1/10-lemuria",
+				"stream": true
+			},
+			
+			
+			{
+				"name": "music/lilypad/2/1-Suomalainen Kehtolaulu",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/2-43343138",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/3-Estonian Reliquary",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/4-Before The Storm",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/5-Denmark",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/6-Sunrise at Denmark",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/7-Factorial",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/8-Great Threat",
 				"stream": true
 			}
 		]
@@ -95,43 +163,77 @@
 		"replace": true,
 		"sounds": [
 			{
-				"name": "music/lilypad/1-rostrum",
+				"name": "music/lilypad/1/1-rostrum",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/2-norway",
+				"name": "music/lilypad/1/2-norway",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/3-sadway",
+				"name": "music/lilypad/1/3-sadway",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/4-pattern-ponder",
+				"name": "music/lilypad/1/4-pattern-ponder",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/5-ballroom-pianist",
+				"name": "music/lilypad/1/5-ballroom-pianist",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/6-moon-2",
+				"name": "music/lilypad/1/6-moon-2",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/7-nordic-sanctuary",
+				"name": "music/lilypad/1/7-nordic-sanctuary",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/8-hidden-den",
+				"name": "music/lilypad/1/8-hidden-den",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/9-fauxdivinity",
+				"name": "music/lilypad/1/9-fauxdivinity",
 				"stream": true
 			},
 			{
-				"name": "music/lilypad/10-lemuria",
+				"name": "music/lilypad/1/10-lemuria",
+				"stream": true
+			},
+			
+			
+			{
+				"name": "music/lilypad/2/1-Suomalainen Kehtolaulu",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/2-43343138",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/3-Estonian Reliquary",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/4-Before The Storm",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/5-Denmark",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/6-Sunrise at Denmark",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/7-Factorial",
+				"stream": true
+			},
+			{
+				"name": "music/lilypad/2/8-Great Threat",
 				"stream": true
 			}
 		]
