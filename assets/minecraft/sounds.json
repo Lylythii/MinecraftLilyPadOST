@@ -1,6 +1,7 @@
 {
 	"music.game": { 
 		"category": "music",
+		"replace": true,
 		"sounds": [
 			{
 				"name": "music/lilypad/1/1-rostrum",
